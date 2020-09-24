@@ -1,8 +1,8 @@
 
 
-<!-- <p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
-</p> -->
+<p align="center">
+    <img src="https://github.com/mauta/mauta/blob/master/banner.jpg" width="854" " />
+</p>
 
 # **Hi and welcome! 🙋‍♀**
 
@@ -30,7 +30,7 @@ Speaking English(B1), Russian(native).
 
 I am currently open for remote job.
 
-<p align="center">
-<a href="mailto:anna.opareva@gmail.com"><img height="30" src=" "></a>&nbsp;&nbsp;
-<a href="https://t.me/annamauta"><img height="30" src=""></a>&nbsp;&nbsp;
+<p >
+<a href="mailto:anna.opareva@gmail.com"><img height="30" src="https://github.com/mauta/mauta/blob/master/iconmonstr-email-12.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/annamauta"><img height="30" src="https://github.com/mauta/mauta/blob/master/iconmonstr-telegram-1.svg"></a>&nbsp;&nbsp;
 </p>
