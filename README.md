@@ -26,7 +26,7 @@ Speaking English(B1), Russian(native).
 
 * Markup
     * [Culture news](https://mauta.github.io/culture_news/) responsive news portal
-    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for for choosing good food
+    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food
 * JS tasks
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
     * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
