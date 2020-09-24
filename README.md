@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/mauta/mauta/blob/master/banner.jpg" width="854" " />
+    <img src="https://github.com/mauta/mauta/blob/master/banner2.jpg" width="854" " />
 </p>
 
 # **Hi and welcome! 🙋‍♀**
