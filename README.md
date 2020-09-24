@@ -4,7 +4,7 @@
     <img src="https://github.com/mauta/mauta/blob/master/banner2.jpg" width="854" " />
 </p>
 
-# **Hi and welcome! **
+# Hi and welcome! 
 
 I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case.
 
