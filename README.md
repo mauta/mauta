@@ -24,7 +24,15 @@ Speaking English(B1), Russian(native).
 
 ### My projects:
 
+* Markup
+    * [Culture news](https://mauta.github.io/culture_news/) responsive news portal
+    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for for choosing good food
+* JS tasks
+    * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
+    * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
 
+
+Culture news responsive app prototype that helps you to find new travel-mates.
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
