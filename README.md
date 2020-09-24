@@ -17,7 +17,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
 - **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Adobe Photoshop, Figma;
+- **Graphic Editors** Adobe Photoshop, Figma;
 
 ### Languages:
 Speaking English(B1), Russian(native).
