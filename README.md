@@ -30,7 +30,7 @@ Speaking English(B1), Russian(native).
 
 I am currently open for remote job.
 
-<p align="center">
+<p >
 <a href="mailto:anna.opareva@gmail.com"><img height="30" src="https://github.com/mauta/mauta/blob/master/iconmonstr-email-12.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/annamauta"><img height="30" src="https://github.com/mauta/mauta/blob/master/iconmonstr-telegram-1.svg"></a>&nbsp;&nbsp;
 </p>
