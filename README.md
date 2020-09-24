@@ -1,8 +1,8 @@
 
 
-<!-- <p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
-</p> -->
+<p align="center">
+    <img src="https://github.com/mauta/mauta/blob/master/banner.jpg" width="854" height="200" />
+</p>
 
 # **Hi and welcome! 🙋‍♀**
 
