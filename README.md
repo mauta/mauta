@@ -4,7 +4,7 @@
     <img src="https://github.com/mauta/mauta/blob/master/banner2.jpg" width="854" " />
 </p>
 
-# **Hi and welcome! 🙋‍♀**
+# **Hi and welcome! **
 
 I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case.
 
@@ -12,7 +12,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 
 
 
-### 🛠 My tech stack:
+### My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
@@ -30,11 +30,7 @@ Speaking English(B1), Russian(native).
 * JS tasks
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
     * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
-
-
-Culture news responsive app prototype that helps you to find new travel-mates.
-
-### 💌 Feel free to contact me if you have an open position that matches my skills. 
+    
 
 I am currently open for remote job.
 
