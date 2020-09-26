@@ -11,6 +11,7 @@ I am Anna Opareva and most interesting for me - it’s frontend development. I l
 Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me there aka [mauta](https://www.codewars.com/users/mauta)
 
 
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mauta&count_private=true&show_icons=true" />
 
 ### My tech stack:
 
