@@ -33,6 +33,7 @@ Speaking English(B1), Russian(native).
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
     * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
     * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/)
+    * [momentum](https://github.com/mauta/momentum) Task 3 for [RS school](https://rs.school/)
     
 
 I am currently open for remote job.
