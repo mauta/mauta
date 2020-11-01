@@ -28,7 +28,7 @@ Speaking English(B1), Russian(native).
     * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food
     * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA
     * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio
-    * [WebDev](https://mauta.github.io/webdev/webdev/) non-responsive site about web development. Task 1 for [RS school](https://rs.school/)
+    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development. Task 1 for [RS school](https://rs.school/)
 * JS tasks
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
     * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
