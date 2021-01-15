@@ -34,6 +34,7 @@ Speaking English(B1), Russian(native).
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
     * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/)
     * [momentum](https://github.com/mauta/momentum) Task 3 for [RS school](https://rs.school/)
+    * [gem-puzzle](https://github.com/mauta/gem-puzzle/blob/gem-puzzle/) Task 6 for [RS school](https://rs.school/)
     * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) Task 8 for [RS school](https://rs.school/) 
     
 
