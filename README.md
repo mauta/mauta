@@ -14,7 +14,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 ### My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** JavaScript (ES5/ES6);
+- **Frontend:** JavaScript (ES5/ES6), Mapbox GL JS, Phaser;
 - **Code bundlers:** Gulp, Webpack;
 - **Graphic Editors:** Adobe Photoshop, Figma;
 
