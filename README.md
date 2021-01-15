@@ -32,7 +32,6 @@ Speaking English(B1), Russian(native).
     * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development. Task 1 for [RS school](https://rs.school/)
 * JS tasks
     * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
-    * [brackets](https://github.com/mauta/brackets) famous task but with some tricks
     * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/)
     * [momentum](https://github.com/mauta/momentum) Task 3 for [RS school](https://rs.school/)
     * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) Task 8 for [RS school](https://rs.school/) 
