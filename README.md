@@ -27,7 +27,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
     * [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
     * [calculator](https://github.com/mauta/calculator).
 
-* Markup
+* HTML/CSS/SCSS
     * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
     * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio.
     * [Culture news](https://mauta.github.io/culture_news/) responsive news portal.
