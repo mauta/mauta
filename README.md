@@ -19,7 +19,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 - **Graphic Editors:** Adobe Photoshop, Figma;
 
 ### My projects:
-* JS:
+* JavaScript ES6:
     * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph(canvas) and interactive map(Mapbox GL JS).(used observer).
     * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (used routing).
     * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
