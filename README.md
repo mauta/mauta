@@ -23,22 +23,22 @@ Speaking English(B1), Russian(native).
 
 ### My projects:
 
-* Markup
-    * [Culture news](https://mauta.github.io/culture_news/) responsive news portal
-    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food
-    * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. (slider, pagination, popup)
-    * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA
-    * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio
-    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development. Task 1 for [RS school](https://rs.school/)
-* JS tasks
-    * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult
-    * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/)
+* JS:
+    * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.(teamwork, Mapbox GL JS, canvas, observer).
+    * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (routing).
+    * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
+    * [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) virtual keyboard with voice text input.
     * [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
-    * [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) Task 5 for [RS school](https://rs.school/)
-    * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) Task 6 for [RS school](https://rs.school/)
-    * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) Task 7 for [RS school](https://rs.school/)
-    * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) Task 8 for [RS school](https://rs.school/) 
-    
+    * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/).
+    * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult.
+
+* Markup
+    * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
+    * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio.
+    * [Culture news](https://mauta.github.io/culture_news/) responsive news portal.
+    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food.   
+    * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA.  
+    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.    
 
 I am currently open for remote job.
 
