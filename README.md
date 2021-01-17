@@ -26,7 +26,7 @@ Speaking English(B1), Russian(native).
 * Markup
     * [Culture news](https://mauta.github.io/culture_news/) responsive news portal
     * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food
-    * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. Task 4 for [RS school](https://rs.school/)
+    * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. (slider, pagination, popup)
     * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA
     * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio
     * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development. Task 1 for [RS school](https://rs.school/)
