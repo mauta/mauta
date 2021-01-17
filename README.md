@@ -25,8 +25,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
     * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
     * [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) virtual keyboard with voice text input.
     * [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
-    * [calculator](https://github.com/mauta/calculator) Task 2 for [RS school](https://rs.school/).
-    * [basic-js](https://github.com/mauta/basic-js) 10 different JS tasks from simple to difficult.
+    * [calculator](https://github.com/mauta/calculator).
 
 * Markup
     * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
