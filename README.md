@@ -18,11 +18,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 - **Code bundlers:** Gulp, Webpack;
 - **Graphic Editors:** Adobe Photoshop, Figma;
 
-### Languages:
-Speaking English(B1), Russian(native).
-
 ### My projects:
-
 * JS:
     * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.(teamwork, Mapbox GL JS, canvas, observer).
     * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (routing).
@@ -38,7 +34,9 @@ Speaking English(B1), Russian(native).
     * [Culture news](https://mauta.github.io/culture_news/) responsive news portal.
     * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food.   
     * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA.  
-    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.    
+    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.
+### Languages:
+Speaking English(B1), Russian(native).
 
 I am currently open for remote job.
 
