@@ -20,8 +20,8 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 
 ### My projects:
 * JS:
-    * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph and interactive map.(teamwork, Mapbox GL JS, canvas, observer).
-    * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (routing).
+    * [covid dashboard](https://github.com/mauta/covid-dashboard/tree/develop) app for tracking the spread of COVID-19 in the world and in selected countries. Information is presented in the form of a table, list, graph(canvas) and interactive map(Mapbox GL JS).(used observer).
+    * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (used routing).
     * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
     * [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) virtual keyboard with voice text input.
     * [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
@@ -34,6 +34,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
     * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food.   
     * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA.  
     * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.
+
 ### Languages:
 Speaking English(B1), Russian(native).
 
