@@ -1,15 +1,12 @@
-
-
 <p align="center">
     <img src="https://github.com/mauta/mauta/blob/master/banner2.jpg" width="854" " />
 </p>
 
-# Hi and welcome! 
+# Hi and welcome!
 
-I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case.
+I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case. =)
 
 Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me there aka [mauta](https://www.codewars.com/users/mauta)
-
 
 ### My tech stack:
 
@@ -19,22 +16,25 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 - **Graphic Editors:** Adobe Photoshop, Figma;
 
 ### My projects:
-* JavaScript ES6 (+ HTML/CSS(SCSS)):
-    * [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (SPA routing).
-    * [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
-    * [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) virtual keyboard with voice text input.
-    * [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
-    * [calculator](https://github.com/mauta/calculator).
 
-* HTML/CSS(SCSS)
-    * [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
-    * [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio.
-    * [Culture news](https://mauta.github.io/culture_news/) responsive news portal.
-    * [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food.   
-    * [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA.  
-    * [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.
+- JavaScript ES6 (+ HTML/CSS(SCSS)):
+
+  - [english for kids](https://github.com/mauta/english-for-kids/tree/english-for-kids) app for learning English words for kids (SPA routing).
+  - [gem-puzzle](https://github.com/mauta/gem-puzzle/tree/gem-puzzle) implementation of the classic Gem-puzzle.
+  - [virtual-keyboard](https://github.com/mauta/virtual-keyboard/tree/virtual-keyboard) virtual keyboard with voice text input.
+  - [momentum](https://github.com/mauta/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
+  - [calculator](https://github.com/mauta/calculator).
+
+- HTML/CSS(SCSS)
+  - [Shelter](https://github.com/mauta/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
+  - [Nerds](https://mauta.github.io/nerds/) non-responsive site for small web-studio.
+  - [Culture news](https://mauta.github.io/culture_news/) responsive news portal.
+  - [Delivery Food](https://mauta.github.io/dilivery/) responsive app for choosing good food.
+  - [Sedona](https://mauta.github.io/sedona/) non-responsive site about small and beautiful town in USA.
+  - [WebDev](https://github.com/mauta/webdev) non-responsive site about web development.
 
 ### Languages:
+
 Speaking English(B1), Russian(native).
 
 I am currently open for remote job.
