@@ -4,7 +4,7 @@
 
 # Hi and welcome!
 
-I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case. =)
+I am Anna Opareva and most interesting for me - it’s frontend development. I love to page making. May be I am a control freak, but I love then all is right and carefully. Like Pixel Perfect. It’s a joke, just in case.
 
 Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me there aka [mauta](https://www.codewars.com/users/mauta)
 
